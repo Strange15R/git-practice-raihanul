@@ -3,6 +3,9 @@
 ## Author
 Mohammad Raihanul Islam Bhuiyan
 
+## Username
+Strange15R
+
 ## Description
 
 This project demonstrates Git and GitHub basics.
@@ -19,3 +22,4 @@ This project demonstrates Git and GitHub basics.
 - Addition
 - Subtraction
 - Multiplication
+- Division

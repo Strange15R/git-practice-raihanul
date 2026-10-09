@@ -13,3 +13,9 @@ This project demonstrates Git and GitHub basics.
 - GitHub
 - Branches
 - Calculator
+
+## Calculator Functions
+
+- Addition
+- Subtraction
+- Multiplication
